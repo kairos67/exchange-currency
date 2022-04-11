@@ -83,7 +83,7 @@ function convert(type) {
 }
 
 // function convert(type) {
-//   let amount = 0;
+   let amount = 0;
 
 //   if (type == "from") {
 //     amount = document.getElementById("from-input").value;
